@@ -1,1 +1,1 @@
-# SUSTech-Post
+# SUSTech-Poster
