@@ -1,0 +1,1052 @@
+Lei Ma，Cyber-Physical Systems ，Data-Driven Era
+Olivier Mathieu，Linearity and nonlinearity，polynomial automorphisms
+李丽华，高校反腐
+Yue Zhao，ultralight dark matter，precision frontier
+Yong Qin，Complex Natural Products ，Natural Medicines
+周毅，microscopic-wavefunction-guided ，2D correlated electrons
+张泽民，肿瘤微环境，单细胞解析，免疫治疗
+谭骁天，光微流生物，分子传感技术
+Dacheng Xiu，Statistical Limit
+李昕，Nature journals
+杨帆，B细胞，免疫记忆，存储与召回
+Peijun Hu，Theoretical Progresses，Heterogeneous Catalysis
+Lifeng Chi，Surface Interface，Molecular Science
+承磊 ，新型厌氧古菌，碳代谢，深部生物圈，生物地球化学
+Jie Zhang，Parallel-EIT cooling，quantum structural phase
+杜祖亮，光电纳米结构，材料与器件
+Wenfei Fan，Big Graphs
+龚政，Micro-LED，巨量组装
+Lihui Wang，Dynamic image ，perception and interaction
+黄冬梅，swept lasers
+刘华杰，希波克拉底誓词，“技科”伦理
+邱震海，乌卡时代，全球发展趋势，高校毕业生，职业前景
+李旸，胶原杂交，生物学
+陈松蹊，大数据矩阵
+刘汝，生物安全，防控与治理体系
+夏亦荠，NAD-cap，DOX1
+路节，Drift Detection，Understanding，Adaptation
+袁钧瑛，RIPK1，细胞死亡，人类疾病
+张华成，MOF材料，仿生离子
+卢一新，双官能团，膦催化剂
+司竹，口炎病毒，组装机制
+於锋，多相永磁电驱，车载充电系统
+Bill Martin，living cells，hydrothermal vent
+Bin Ren，Spectroelectrochemical Techniques，High Spatial，Temporal Resolution
+Songxi Chen，Distributed Statistical Inference， Heterogeneity
+许镇，数字孪生架构，抗震韧性
+徐鹰，组学大数据，系统生物学，肿瘤演化机理
+陈海威，人体微生物
+修大成，Statistical Limit，Arbitrage
+光辉，运动神经科学，动力学系统
+Xiaohua Zhou， Biostatistics，Interdisciplinary Science，
+曹志兴，Neural network，non-Markovian models ，gene expression
+张士欣，NISQ era，Quantum algorithms，simulation，
+刘癸庚，磁性拓扑，光子学
+蔡寅，光频梳，量子提升测量
+李峰，微腔极化激元，自旋光子学
+罗亦杨，超快激光自组装脉冲，动力学，操控及应用
+张亚男，光纤化学，传感技术
+倪文军，光纤-薄膜复合器件，声波传感器
+William Huggins，quantum Monte Carlo，quantum computer
+胡海岚，Neural mechanisms，social and emotional behaviors
+王东，诱导发光材料，光学诊疗
+李振，分子聚集态科学
+邱柳，超导量子网络，量子微波光子学
+吴孔明，双特异性抗体，抗肿瘤作用研究
+乔木，Quantum Simulation，Two-Dimensional，Ion Crystals
+袁跃峰，极宽阻带，高温超导，滤波器
+唐希源，Amplifier
+胡文琪，Miniature，Soft Robot
+唐定远，Vector Solitons，Cross-Polarization Coupling ，Fiber Lasers
+彭若酩， Engineering the interactions，photon and phonon，
+于洋，All-fiber Multi-parameter，  Sensing and Monitoring Technology
+潘孝敬，电压门控钠离子通道，结构和机理
+尤鹏程，Saddle Flow Dynamics，Constrained Reinforcement Learning
+杨洪远，Adipogenesis ， Biogenesis， Lipid Droplet
+钟长春，Quantum transduction，single mode squeezing operators
+侯一筠，国家自然科学基金项目申请书，经验分享
+陈顺兴，Intracellular Protein-Protein，Protein-Chemical Interactions;2 沈庆涛， Synchronize Proteins
+陆天，single-cell epigenomics，functional genomics
+杨小飞，植物RNA结构，测定与功能研究
+黄伟杰，植原体，非泛素化依赖26S蛋白酶体，调控宿主发育
+Inkyu Park，Micro nano-engineered，self-powered physical
+Shuwen ZENG，Plasmonic Biosensors，Two-Dimensional NanoMaterials
+Katherine Wasdin，Greek Heroes and Herakles
+傅成玉，碳中和
+张振东，原子， 分子与光子，超辐射
+张涵，非接触连续体征监测，健康管理中的应用
+王健，Piezo1信号通路，肺动脉高压
+胡清华，钙感受器，肺动脉高压
+张科，原子分子系统，精密测量
+李保文、Nanoscale phononic thermal transport
+常晋源、Modelling matrix time series、tensor CP-decomposition
+倪晨凯、Managerial Learning、Corporate R&D
+肖晓、Signed Option Trading、Stock Market Anomalies
+王学钦、Dynamical regime changes
+于滨、数据体验设计、美学和情感
+于卫东，印-太暖池区季风，海洋多尺度相互作用
+赵勤 ，chip variation
+周明，染色质重塑因子，甲基化模式
+赫圣博，组蛋白变异体，相分离，染色质浓缩
+Xi Zheng，Robust Autonomous，Driving Systems
+Jay Fineberg，Frictional Motion
+王真桢，科幻游戏文案
+徐鹰，肿瘤大数据，肿瘤演化机理
+鲜余强，方舟编译器，设计与实现
+苏航，Trustworthy Autonomous Systems，Human-Robot Co-existence
+杨玉超，忆阻器，存算一体芯片
+王平洋，深圳电力工业发展，成就和未来展望
+肖凯，仿生多尺度离子基，神经拟态器件;杨帅健，液态金属的柔性电子，生物医学中的应用
+周志民，中国城市创意指数，模型与测量
+Efim Zelmanov，Infinite Groups，Algebras
+唐杰，知识溢出，空间创新增长
+冷晓琨，多场景机器人，关键技术与应用落地
+田颜清，教学工作及服务，回顾与交流
+申立勇，数字化设计与制造
+辛秀芳，丁香假单胞杆菌，致病机制，植物水分调控
+李剑峰，真菌几丁质，植物免疫信号
+熊友军，人机共融时代，AI创新之路
+周杨，mixed-spin-P
+张怀良，BCOV Feynman Structure
+王冰，optimization methods，expensive optimization problems
+林立，唐宋俚词
+徐迎庆，学科交叉，设计创新
+Feliks Przytycki， Hausdorff dimension，Julia sets
+周治平，硅基光电子，信息系统小型化
+汤勇军，Climate Laws，Cross-Border
+姜洁，信息物理系统，入侵检测，溯源
+田玉楚， edge and cloud， cyber-physical systems
+徐凌，高粱，抗旱根系
+津田贤一，bacterial growth，plant immunity
+王文杰，深投控，世界500强之路
+左磊，海洋之路
+张汉裕，5G C-V2X Networks
+Caucher Birkar，Moduli，algebraic varieties
+陈支通，等离子体医学
+胡延庆，structure evolution trajectory;郑梅珍，3D Genome Mapping Technology
+牟平，Lineage Plasticity，Tumor Heterogeneity
+倪娜，深度学习，囊胚形态评估
+童国庆，生殖医学，人工智能
+宁存政，光电芯片
+卢湖川，跟踪与分割，大一统
+吕琳媛，网络重要节点，挖掘及其应用
+郑玉峰，可降解金属
+柯琳，太赫兹技术，生物医学，无损检测
+范智勇，三维微纳结构，光电与传感器件
+Yeling ZHOU，ABA homeostasis，organellar ABA，membrane transporters
+李之勇，植物保守支架蛋白，交叉会话
+Te Bao，Information Ambiguity，Experimental Evidence
+Jian Chen，Labor Flow，Asset Pricing
+Zhiyuan Sun，Order parameter steering
+宋志平，三精管理
+韩望喜，心学源流
+魏佛兰，Culture of Nature， Ecological Awareness
+黄伟雄，珠绣
+Yongkang Luo， Nuclear Magnetic Resonance ，condensed matter physics
+Jianyu Jiang，Enabling Fault-isolated
+Joseph Sifakis，Artificial Intelligence ，Autonomous Systems
+雷晓光，化学生物学，创新药物开发
+薛亮，冷冻断层成像技术，解析翻译
+张皓昭，区块链，复杂交易共识
+Weiping Liu，JUNA，nuclear reaction，deep underground facility
+Tao Chen，Minimum Wages，Minimum Wages
+Zhiyuan Yao，Entanglement Entropy，Correlation Matrices
+李锦炯，视觉传达，品牌传播力
+Huan LI，Jinghu Accompaniment，Musical Notation
+陶肖明，智能可穿戴系统，机遇和挑战
+任建明，反腐败工作，形势与对策
+姜凯，化学生物学，生长素酰胺合成酶GH3
+徐娟，MAPK信号通路
+熊骏 ，机器视觉
+李晓东，地质力学效应，天然气水合物热激法，理论新模型
+张杰，未来，唯变不变
+刘雪明，超快激光，研究进展及应用
+陈有海，New immune checkpoints，cancer immune therapy
+李元庆，锯琴，起源与发展
+LU Shuai，Architecture Science，Inspiration，Architectural Design
+Jie Lu，Fuzzy Transfer Learning
+卢红耀，设计，连接
+王赞，深度学习，数据优化
+尤可可，元宇宙
+陈明，Targeting Ferroptosis ， RB1-Deficient ， Prostate Cancer
+路超 ，扫描隧道显微镜，原理及应用
+哈亚军，后摩尔时代，高能效边缘计算
+Masahito Hayashi，Quantum Computation
+Baohua Fu，Mirror symmetry，nilpotent orbit closures
+Yu-Shen Lin ，Moduli Space，Gravitational Instantons
+何新建，植物染色质，重塑复合体
+邓兴旺，带状复合种植，一体化除草
+洪伟，毫米波，太赫兹技术
+林参，Publishing Journal Papers，Editor’s Perspective
+宋丁，深圳，感悟，百年未有之大变局
+刘曦卉，先进制造，创新设计
+杨学明，化学反应，量子特性；方维海，分子线性响应；周鸣飞，气相分子，团簇化学键
+Arian Vezvaee，Noise Spectroscopy
+吴伟晴，吃动平衡，唐源淋，生活方式医学，朱冰坡，高血压，顾建钦，健康生活处方
+赵改善，石油物探行业，数智化变革，数智化变革
+宗祖盼，数字文化产业，传统文化创新
+胡思侠，X射线衍射仪，原理和操作
+孙骏胤，沟通与信任
+张瑞时，全球变局，领导力
+曾芝瑞，古菌单层膜脂GDGTs，生物合成，
+宋士勇，水稻FTIP家族，发育和逆境应答机制
+文成林，国家自然科学基金，信息融合，故障诊断
+Si Li ，Elliptic chiral homology，quantum master equation
+Junliang Shen，Hitchin systems
+梁海宁，Optimized ， Efficient， Object Selection，Virtual Reality
+黄铠，智能物联网，云端医疗，数字经济，生态环境
+刘璐，线性，多智能体，事件触发控制
+陈清烽 ，免疫系统，肝脏人源化小鼠模型，疾病研究，药物开发
+付敏跃，Cart-pole System，Model-based ，Model-free
+薛其坤，学术之路
+陈国良，入徒之路，研究生
+孙学良， all-solid-state batteries，Challenges and opportunities
+林琳，质谱技术，原理及应用
+方博汉，Oscillatory，mirror Lagrangian cycles
+Eric Zaslow， Chromatic Lagrangian，Wavefunctions，Open Gromov-Witten Conjectures
+夏洞奇，地中海，拜占庭帝国
+胡章立，微藻，生物合成，产业 ;屈玉娇，案例分享
+王昊飞，眼动交互，多模态交互
+丁文伯，智能感知，人机交互，自驱动传感系统
+李小甘，窗口，美丽
+夏文， 存储系统，数据去重技术
+王骁逸，新消费时代，产品规划
+康健，Continuum field theory，graphene bilayer system
+陈小菁，neural mechanism，memory discrimination，pattern separation;李凯，Organic cell trackers，vivo imaging and therapy
+邹永攀，智能终端，感知与交互技术
+郭福成 ，无源探测，原理与技术
+马大为，药物分子，有机合成，创新
+韦亚一，集成电路，光刻
+Rongchun Ge，QFTEP
+Zhen Chen，mammalian sperm ， Visual proteomics， situ cryoET
+Jingjing LUO，Manufacturing，Tonglushan，Heritagisation，Collective Memory
+马续航，椭偏仪
+刘峰，cGAS，非酒精性脂肪性肝炎，作用和机制
+陈家喜，中国共产党，深圳改革开放，实践
+何华，固定收益市场，投资机会，就业前景
+Jian Huang，Deep Learning，Biomedical Data Analysis
+Yakun Wang，Individual Auditor，Turnover，Audit Quality
+殷嘉鑫，笼目晶体，量子演生
+黄宇，EDA 概论
+陈云霁，深度学习，处理器
+Rahul Pandharipande，Log intersection theory，moduli space，curves
+Selena ZHAO，半导体，微纳加工
+孙广中，高性能计算
+缪静敏，互联网学习，数字素养
+邱杨，透射电镜，原理，应用
+殷鹏，机器人系统，大规模，大尺度，复杂环境，建模
+陈学伟，水稻，病原菌，分子基础
+王二涛，植物，微生物，共生，营养
+王立新，广东之水
+陈焱，创新，有为
+薛其坤，非常规，高温超导
+卜建辉，集成电路，可靠性，极端环境建模
+杜博，肺部疾病，智能影像分析
+鲁伯埙，靶向干预，亨廷顿病
+马晓旻，冷冻电镜，单颗粒技术
+戴恒男，可能，突破
+彭宇新，视觉-语言
+何涟，光遗传学，细胞信号通路
+刘毓文，调控元件，分子育种，生物学育种
+戴磊，精准表征，靶向改造
+夏珩，光伏新能源
+谢作伟， Carborane
+姬扬，相干彩虹
+魏红燕，tumor ;李昱，GGH
+孙汉杰，精算师
+王鹏程，介导渗透，早期信号转导
+叶瑞强，Glucose-driven，TOR-FIE-PRC2
+李志远，微纳尺度，量子
+陈森睿，Pauli noise
+王立新，广东之水
+王喆，软硬协同，内存隔离
+Carlos Gustavo Moreira，Fractal geometry
+吕考升，蛋白质翻译，造血干细胞
+高媛，大学国际化
+毛睿，大数据泛构，通用模式
+曹丽伟，蛋白基因组学
+敖金平，射频功率器件，氮化镓
+顾炎武， Noise-resilient，randomized compiling
+方斌，触觉感知，交互学习
+陶楚，TNF-α，PTH-driven，刘明成， KLF5，prostate cancer
+龚欣，Snapshots，lipid transport
+廖茂富，Cryo EM
+Ludovic Krundel， Sleek-control，Autonomous Robots
+张哲东，Quantum，Molecular Dynamics，Nanoscale
+王琦 ，密码学
+鲁昊骋，心血管疾病，靶点
+陈汉夫，Sparsity
+周守为，深海一号，创新实践
+Lars Samuelson， Transition，Energy Efficiency
+王泽峰， complexity，human genome，RNA level
+Abolfazl Bayat，Quantum enhanced，many-body probes
+陈汉夫，Sparsity
+殷建华，多层黏性土，固结沉降
+祝京旭，科学研究，多重社会责任
+张啸天， Non-Fermiboson ，boson surface
+张忠，纳米复合材料
+许建斌，二维层状材料，光电子器件
+司鹏翔，离子聚合物，柔性天线
+尹超，correlators，information scrambling
+张瑞，IRS
+刘振寰，Detectability，Entanglement
+董海良，矿物-微生物，协同演化
+陈世祈， Ultrafast Nanoscale，Digital Holography
+余化鹏，刘超，mechanobiology，spatiotemporal analysis
+Gary Zhou，周欢欢，Semiconductor，Industry Environment
+Andreas Molisch，OTFS
+冀东，Avalanche-Based， GaN Devices，RF ，Photonics
+Pietro Simone Oliveto，Computational Comple，Sexual Evolutionxity Analysis
+陈掌星，碳捕集，利用与封存
+刘铁峰，碱金属电池
+刘翠艳 陆地深部生物学 天体生物学
+余化鹏；刘超；Mechanobiology
+张宇昊；Si ；SiC
+张嵩；Hamiltonian；error correction
+谢树成；地球生物学；地球科学
+Kang Zhou；SIW；Filtering Components
+Henk Wymeersch；Fabiola Colone；5G
+李昌竹；华为；手机摄影
+管少平；理解设计；工业设计
+周青；电动汽车；汽车安全
+Kurt Konhauser；现代研究；深层时间
+李友福；Visual sensing；tracking
+R  Lovley；生物地球化学循环；电-地质生物学
+Zhe Lin； Design Automation；Hardware Architecture
+邵启明；quantum materials；spintronics
+Tommy Phelps；David C  White；微生物脂类
+嵇艳鞠；超导电磁探测；电磁感应-极化双场探测
+沈延安；太古代；生物圈
+Subhrajit Modak；Postselected Metrology；Bounding Quantum Advantages
+马星；微纳米机器；生物医用
+王国庆；quantum mixer；arbitrary frequency fields
+阚金军；电子流动；细菌发电
+凌力；新污染物；环境风险削减系统
+朱文君；指数保险；气象风险
+况吕林；英伟达；cuQuantum
+宋林海;Go;bugs
+黄立南；微生物；生物学
+李一良；宇宙诞生；微生物
+江瑛芝；Antibiotic Resistance；Computational Approaches
+李峰；
+康斌；SPASER；“纳米激光”探针
+Kazuhiro Nakadai；Robot Audition；Microphone Array
+黄瑞新；热盐环流；海洋热力学
+YANG Yingkun；Belal Shohayeb；Vestibular System
+孙颖；田瑞军；Kindlin-2
+李亮；急慢性呼吸道疾病；免疫机制
+Wiebe Bakker；symbol；interdisciplinary
+徐梦炜；泛在学习；系统软件
+Per Hall；The Baltic Sea；benthic nutrient
+陶冶；粤海街道企业；毕业生
+王照勇；DAS；地震波检测
+李东辉；CEO；创新
+聂广军；纳米技术；肿瘤免疫
+Elison Matioli；GaN；efficient
+Morgan Li；大疆；激光雷达
+李涵雄；智能制造；挑战
+器官移植；捐献；科普
+薛其坤；学术人生；科学梦想
+Wei Zhu；Dynamics；Entanglement Hamiltonian
+韩波；Trustworthy Learning and Reasoning；Noisy Data
+冷劲松；智能材料；4D打印
+刘健钧；市场体系；制度设计
+宋昆；唐建波；Neuromodulation
+朱高华；马里亚纳；地震
+梁永佳；希腊-罗马认识域；中国本土理论
+Joseph Sifakis；Machine Intelligence；Human
+金李；财富管理；共同富裕
+梁小丹；训练模型；细粒度
+尹国圣；再次随机化；Mahalanobis distance
+金欣；光场显微镜；分辨率
+赵序茅；进化；人类
+薛其坤，大学建设，行政队伍
+李险峰；数据级并行；硬件加速架构
+万书波；农业栽培；花生栽培
+吴东辉；Remote Auditing；Audit Quality
+杨军昌；隋炀帝萧后冠；十二钗
+刘少林；地震波；地震成像
+田瑞军;化学生物学;精准医学
+Matthew Kenna;HUANG Zengjin;neural circuitry
+Eric Kerrigan；Differential Equations；Optimization
+张彤；medical image；weakly self supervised
+杨东林；陶渊明；诗歌
+叶德全；消炎；G蛋白偶联受体
+张焯然；Cell Manipulation；Robotic
+张和平；基因；大脑
+周再发；MEMS；设计技术
+张忠祥；激光雷达；发展前沿
+罗成文；IoT；Key Generation
+谢和平；大学教育；思考
+陈顺兴；Target；Biomarker
+刘铁民；中枢神经；调控代谢
+马兆远；“逻辑革命”；人工智能
+Visa Koivunen；JRC；Radar
+Ahmed Alkhateeb；Machine Learning；Multi-Modal Sensing Aided Communications
+马辉；偏振光；病理诊断
+张继平；一流大学；数学
+张勃；Neuroligin；Autism
+南兆旭；深圳；机遇
+田昌勇;显示技术;激光
+余备；EDA；Machine learning
+Gerhard Fettweis；Doubly Dispersive；OTFS
+韩李豪；产业链；投资研究
+刘津瑜;碑铭文化;古希腊罗马文化
+杨子晖;网络合成技术;债务风险
+Hongzhen Hu；Signaling Mechanisms；Touch
+Edgar T  Walters;DRG neurons;persistent pain
+谭浩；交叉学科；设计研究
+常瑞华；VCSEL；激光雷达
+俞书宏；材料；纳米科技
+马蔚华；企业；社会责任
+陈思明；可视分析；大数据
+陈嘉欣；多智能体；Neural MMO
+胡家康；文心大模型；“想象力入门”课程
+岳鸿军；水下摄影；金像奖
+陈宇鰴；光学传感；fiber-optic sensors
+熊一枫；ISAC；tradeoff
+张昌平；青铜器；技术演进
+苏宝连；能量存储；转换材料
+孙亚强；EDA；verification
+Enza Migliore；线性时间观；设计实践
+王瑶；科幻文学；末日叙事
+蒋兴宇；思政课；科学技术
+高永强；计算机视觉；AI
+方泽南；集成电路；芯片
+王子南；DAS；相干探测技术
+潘毅；人工智能；生物医学
+宋轩；人工智能；城市智能化管理
+薛金鑫；dynamical；review
+陈勇；能源；创新
+高祥；PbE；overfit
+邵理阳；DAS；AI
+知识产权申请；横向课题管理；科技成果转移转化
+才卓&严志军；知识产权；法律制度
+K  G  Makris；noni-Hermitian；topological
+邹雯；宁敏；知识产权
+陈勇；hedge funds；risk gap
+张劲硕；博物学；哺乳动物
+陆子惠；媒介间性；表演
+张建中；光纤；设计制备
+刘冬竹；Federated Learning；Bayesian FL
+熊熊；公募基金；散户
+吴迪；鲁翔；Micro OLED ；MCU
+唐茗；optimization；economies
+许倩倩；调节；科研
+郭耕；观鸟；发展史
+刘骏秋；氮化硅；集成光子
+谢克昌；能源；战略
+舒菁；量子探测；暗物质
+吴保元
+许倩倩
+李鑫
+Wonkeun Chang
+郎建平
+马欣荣
+刘运渠;李志雄
+周明辉
+陈晓龙
+杨学明、张继平
+张思宇
+左志强
+杨许生
+杨春和
+章亮炽
+李晖
+贺煜
+王博
+饶海
+Emile A  Okal；Thorne Lay
+戈登·马修斯教授 (Professor Gordon Mathews)
+文勇刚
+姜微微
+张海华
+陈仙辉
+祝新革
+王敏
+汪滢莹
+杨新
+Yefeng Mei
+叶志明
+张迎黎
+李一举
+魏磊
+李朦
+吴振禹
+叶林
+刘华杰
+Yiran Chen
+位照国
+董振华
+王娜
+刘科
+张建民
+冯磊
+周勇杰
+罗宇
+杜婧
+刘骏秋
+冯慧娟
+Lingbo Yu
+卢黎歌
+田松
+王岐捷
+孟晓驷
+施雨水
+马雷
+魏磊
+刘琳波
+陈顺兴
+余聪;姚明曦
+Minhao Cheng
+刘德荣
+何思斯
+练光华
+田博博
+许志忠
+陈勇
+蔺亚琼
+Francisco Rodriguez-valera
+訾云龙
+王云征
+王鑫;张彦春
+戴卓君
+丁文新
+董新永
+Sumei SUN
+樊春海
+王志斌
+杨扬
+龙腾
+张金星
+融亦鸣
+徐鹰
+张政
+陈跃红
+康彦新
+蔡强;张峰
+Wan Qing
+许敏
+叶龙武
+朱英杰
+李剑锋
+宋爽
+陈铭易
+张江
+夏思源
+卢洪洲
+贾宁
+赵鹏
+彭艳
+康巍
+吴柯
+曾进炜
+包万超
+凃俊
+徐阳;雷洛
+陈亚州;于涛
+Francis Ka-Ming Chan
+张国祚
+帅世民
+马於光
+杨学志
+芮旻
+李志成
+李仲阳
+刘德荣;潘永平
+胡杨
+王涛焘
+Xun Liu
+Francis Ka-Ming Chan
+张学工
+薛冬峰
+许敏
+郝瑞雪
+王占明;邓勋
+习翔
+Ilya Kublanov
+刘洪一
+高也陶
+毛同林；李继刚
+梁海华
+孙琛
+王春丽;申义凯
+何文龙
+林君浩
+钱贝贝;王琳
+陈志超
+刘彭义
+谢伟广
+李双洋
+张立宁
+叶青
+陈洁;冯媛媛
+Don Zagier
+江焕峰
+秦志伟；赫圣博
+乐正
+周弘
+李长昊
+裴文杰
+陶林
+刘超
+Chun Sing Lai
+曹業宬
+姚雪彪
+Tenghui Wang
+李永舫
+Laura Villanueva
+林毅夫
+董文正
+李志远
+白洋
+鄢仁鸿
+杨一行
+黄同德
+任福君
+李培明
+魏强
+Xinyu Zhou
+沈栋
+彭勋禄;徐玉华
+董波
+黄成军
+冀东
+沈捷
+宋志平
+张笑鸣
+段广仁
+博物绘画；植物标本
+徐正一;夏瑞
+余迪
+马琰铭
+李佑新
+焦述铭
+Marco Amabili
+汪洋;黄卫
+陈徐宗
+郭裕兰
+张江林
+J  Andrew Zhang Yimin D  Zhan
+江定航
+吴长有
+赵可吉
+曹凝萍
+田瑞琳
+王子龙
+黄俊琳
+李学尧
+张传伦
+王耀
+戴巍
+朱军
+Lars Samuelson
+蒋明义;漆小泉
+陈浩
+Dr Tristan Wallis 唐晓颖
+田军;丁巍伟
+黄维
+许鹏程
+陈楸帆
+张明杰;王超
+孙海英
+虞志益
+郑利民
+顾颖;周岳
+吴小波
+刘泉
+蔡恒进
+林丰民
+李漫铁
+陈玉琨
+刘一多
+赵鸿
+CHEN Tinghuan
+Christa Schleper
+廖常锐
+林展
+罗晓光
+李红昌
+黄震
+张宝童
+David Parker
+刘俊国
+徐新建
+Dr  Odette Leiter;宋昆
+侯圣伟;于峰
+宫勋
+陈宇星
+韩明虎
+雷蕾
+王彦杰
+朱嘉琦
+李梦洋;李敏辉;南科大人文社科荣誉学会青年会士
+杨君友
+臧艺兵；田松；王小松；杨扬；刘维勇
+Yu-Kai Lin
+崔原豪
+臧艺兵
+Jie Wang
+赵前程
+纪朋
+邢小涵
+陈国安
+万喆
+杜云龙;余迪求
+杨骅;韦真;潘莉;应朝君
+袁淦钊
+吕佰晴
+陈佶
+张显静
+黄俊琳
+Haruyuki Atomi
+张健存
+黄朴民
+张人公
+刘胡丹
+环境学院全球环境变化研究团队
+Martijn ten Bhömer
+周军
+刘宏斌
+王涛
+许锦波
+周婕
+贾妍；邢颖；钱艾琳
+徐富强
+孙坚原
+刘俊明
+杨文武
+吴柯
+Dr Paul Marshall;余君
+刘琪
+段尊义
+徐帅帅
+王小冬
+吴熙
+王丹
+Huigang Liang
+宋清华
+梁超;张昊
+李山
+施璐
+巨能久
+江寅迪;宋毅
+程辉
+
+栾合密
+杨敏珺
+忻平
+卢东晴;邱勇洪
+王雄
+José Carlos Rebelo da Silva
+朱晓阳
+顾忠泽
+车先伟
+冯一军
+Jenny Hirst
+Xiuran YIN
+Chongying Dong
+Dr John Morris;刘东
+许子东
+卢仲毅
+周忠孝
+赵国庆
+段广仁
+杜玉涛
+宋欣
+林苑菁
+史才军
+王超群;程吉禹;王焦乐;刘蓉;郑敏华;迟文政;宋霜
+宋霜
+高斌
+李剑平
+林国强
+余浩
+罗涛
+杨怡豪
+黄之峰
+龙一；全勇先
+苟德明
+张家栋
+Christian Rinke
+王兆翔
+鄂鹤年
+陈帅
+宋锡滨
+李瑞熙
+吴柘
+徐轶伦
+卢洪洲
+Aaron D  Gitler
+齐德学
+刘腾飞，董海荣，丘立
+许琛琦
+牟中辉
+庞盟
+王兆宁
+戴昱
+曹良才
+陈震
+赵德威
+时尧成
+高建平
+杜嘉木
+黄安诚
+龚寿书
+张景宽
+唐博
+郭贤信
+武军伟
+杨崇林
+张翼
+邸江涛
+方虹斌
+朱荣远
+林苑菁
+关道文
+俞立
+Thibault Vogt
+张海伦
+刘杨
+Leeat Yariv
+Dr  Zhiqiang Huang
+Maziar Raissi
+王伟信
+郭红卫;翟继先
+王凭慧
+彭湃
+姜华
+马燕生
+Adam Walker;张帅
+孙宝根
+书法，赵永金
+张晗
+Paola Giuliano
+Dr Zhitao Hu 牛峰峰
+芮华夏
+李建刚
+陈之原
+唐本忠
+刘晓蕾
+陈捷凯
+
+徐彦辉
+樊卫国
+段广仁
+蔡剑锋
+吴柯
+熊昊楠
+段路明
+陈之原
+陈哲生
+Xin Luo
+Jae-Neung Lee
+闫晓林
+Andrew Hutchins，李依明
+黄炳升
+廖茂富
+Michael Yu Wang
+付春江
+唐春安
+母国标
+张明宇
+崔利荣
+何志毅
+吴振洲
+TSENG Jo-Chi (曾若綺）
+蔡剑锋
+Dr  Feng Gao
+杨鑫
+设计智造学院；宣讲会
+肖荫果
+吕超
+唐晓颖
+程富平
+葛群
+Wei Lin LEONG
+郭毅可
+吴以环
+Prof  Helen Spencer-Oatey
+唐际根
+Prefessor Pankaj Sah QBI，UQ;Karel Svoboda Janelia
+刘东
+杨明俊
+王泽峰
+温书豪
+朱锐
+唐朝枢
+Helen Spencer-Oatey
+许磊
+周绿涛
+张依兮
+王娟玉
+张依兮
+张依兮
+王娟玉
+张依兮
+周绿涛
+王娟玉
+王娟玉
+周绿涛
+王娟玉
+周绿涛
+张依兮
+李子强、樊青远
+王娟玉
+张依兮
+张依兮
+陈建飞
+张笑宇
+郑智平
+徐通达，Tongda XU，TOR Kinase，Glucose-TOR-EIN2 axis，TMK1-mediated auxin signaling
+熊延，Yan XIONG，TOR Kinase，Glucose-TOR-EIN2 axis，TMK1-mediated auxin signaling
+谢杺樾
+苏会军
+乔宇
+王太宏
+电子系，本科专业宣讲会
+周晓华
+郭雨蓉
+荆丽雯
+刘畅
+周绍群
+李伟
+庄明科
+龚岩栋
+梁安辉
+张飞飞
+杨招军
+方泽南
+高阳
+姚静
+韩兢
+程醉
+董迪
+Prof  Bruno Abrahao
+高孟潭
+沈晓鸣
+刘院省
+王登科
+李成超
+Helen Spencer-Oatey
+生物医学工程系，成果展
+金融系，本科专业宣讲会
+崔希亮
+邓子岚
+王玉田
+孙海斌
+龙志军
+程鑫
+刘青松
+蹇林旎、杨再勇、袁长庚、康国钰、李岩松
+段成国
+王鹏程
+佟怀宇
+李秋红
+袁景
+苗金水
+王光能
+杨通进
+于洪君
+周绿涛
+Tommaso Pepe
+卓增庆
+岳晓东
+蔡俊秀
+吴迪
+李志雄
+孟博
+陶然
+陈梓钧
+尤力
+李静
+黄金波
+心理成长中心，娄兰剧社
+李虹宇
+肖晓晟
+刘江，谭荔丹，魏嘉祺，韦卓飞
+黄沫
+林雅恒
+孟庆虎
+张仁
+Jack Donggarra，王连平，张林峰，陈玉荣，李亦学
+肖锐
+陈亮
+孙键
+陈建飞
+包朝伟
+张国新
+王涛
+陈志璋
+蔡显良
+韩林海
+谢兆雄
+王永军
+王祥
+马望星
+黄学良，白耿
+科研表现，南科大附属医院，科研成果机构归属
+彭金荣
+Prof  Xuehua Wang
+Felipe Orellana-Rovirosa
+方海平
+刘正伟
+黄盈盈
+梁小英
+ESI，论文分析
+李博海
+陈宇
+刘合
+杨世杰
+孙卓
+崔东曜
+魏志强
+毕宝仪
+张辉
+官强
+朱梦雯
+胡晓珍
+Yijin WANG
+邹铁夫
+张浩锋
+孔湉湉
+Abolfazl Bayat
+钱共鸣
+王瑞轩
+袁海
+朱宏图
+汪宏
+Yu-xi LIU
+刘娜娜
+王晓东
+张文义
+李恭忠
+张强
+徐强
+刘辉
+胡国云
+刘琨
+江桂斌
+冯林
+陈晓非
+王同飞，谭禄彬
+何启如
+林圣彩
+王锐
+马建国
+何人可
+王婧
+秦朔
+高绍荣
+熊乔洲
+陆俭明，
+感热机制，刘建祥
+茶与健康
+群体微生物学，精准抗菌药物，邓音乐
+中国农业，伦理，严火其
+糖密码，陈兴
+5G，Massive Randome Access， Yafeng Liu
+氮化反应，焦宁，Nitrogenation Reactions，Ning Jiao
+Flexible Electromechanical Transdcers，Human-Machine Interactivity，Zhong Junwen，人机交互，柔性机电转换，钟俊文
+广域量子，网络，Quantum Network
+海报，讲座，王登科
