@@ -1,1 +1,4 @@
 # SUSTech-Poster
+
+EdgeGPT
+PaddleOCR
