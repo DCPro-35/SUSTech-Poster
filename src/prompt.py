@@ -70,7 +70,7 @@ def batch_generate_prompt():
 
 #test example
 def main():
-    # print(generate_prompt())
+    print(generate_prompt())
     
     print(len(batch_generate_prompt()))
     

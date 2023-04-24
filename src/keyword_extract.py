@@ -10,7 +10,6 @@ from typing import Generator
 from typing import Literal
 from typing import Optional
 from typing import Union
-import data_process
 import numpy as np
 import requests
 import websockets.client as websockets
