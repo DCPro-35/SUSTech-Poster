@@ -79,6 +79,29 @@ def to_json(response):
         f.write(response)
         f.close()
 
+def send_prompt(prompt):
+    bot = Chatbot(cookiePath = COOKIE)
+    
+    wrote = 0
+    
+    prompt = generate_prompt()
+    return_msg = ""
+    for final, response in bot.ask_stream(
+        prompt=prompt,
+        conversation_style="balanced",
+    ):
+        
+        if not final:
+            print(response[wrote:], end="")
+            #concat the string with the message
+            return_msg = return_msg + response[wrote:]
+            wrote = len(response)
+            sys.stdout.flush()
+        
+        else:
+            return return_msg.strip()
+
+
 async def main():
 
     print("\nLoading cookie from: " + COOKIE)

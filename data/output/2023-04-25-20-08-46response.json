@@ -1,0 +1,9 @@
+[1]: https://link.springer.com/book/10.1007/978-3-030-37962-9 "Data-Driven Modeling of Cyber-Physical Systems using Side ... - Springer"
+[2]: https://www.sciencedirect.com/book/9780128166376/big-data-analytics-for-cyber-physical-systems "Big Data Analytics for Cyber-Physical Systems | ScienceDirect"
+[3]: https://dl.acm.org/journal/tcps/special-issue-ai "ACM TRANSACTIONS ON CYBER-PHYSICAL SYSTEMS Calls for Papers"
+[4]: https://arxiv.org/abs/2102.07244 "Resilient Machine Learning for Networked Cyber Physical Systems: A ..."
+[5]: https://link.springer.com/book/10.1007/978-3-662-58485-9 "Machine Learning for Cyber Physical Systems - Springer"
+
+Here's your requested json list:
+```json
+[{"keywords":["Data-driven AI","machine learning","cyber-physical systems"],"abstract":"Data-driven AI (e.g， machine learning) achieves tremendous success over the past decade in achieving human-competitive performance in many cutting-edge domains. Recently， we also have also been witnessing an increasing trend of new AI technique proposals in the cy ber-physical systems across industrial domains， e.g，autonomous driving， robotics， power and energy， especially in solving problems that could not be achieved by classical solutions (e.g， theory and best practice) under open， wild， or extreme conditions."}]

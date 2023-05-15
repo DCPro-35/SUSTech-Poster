@@ -2,27 +2,52 @@ import numpy as np
 
 #number of parameters in the prompt
 KEYWORD = 5
-ABSTRACT = 100
+ABSTRACT = 50
 LIMIT = 1950
-RANGE = (0,2)
+RANGE = (0,0)
 TRAIN_PATH = "/root/vscode/cs330/data/input/Data.txt"
 
-BATCH_PRESET = "Please extract %d keywords from each element in the json list\
-and conclude it to an abstract within %d words. \
-Keywords and abstract should use its original language. \
-Each element in the list includes a text.\
-Do not give addtional description. \
-Just return a json list in the format\
-[{\"keywords\":[xx,...],\"abstract\":\"...\"},...]. \
-Here's the text: \r\n ["%(KEYWORD, ABSTRACT)
-
 PRESET  = "Please extract %d keywords from the text\
-and conclude it to an abstract within %d words. \
+and conclude it to one sentence within %d words. \
 Keywords and abstract should use its original language. \
 Do not give addtional description. \
 Just return a json list in the format\
 [{\"keywords\":[xx,...],\"abstract\":\"...\"}]. \
 Here's the text: \r\n ["%(KEYWORD, ABSTRACT)
+
+PRESET_CH = "请从以下文本中提取%d个关键词\
+    并将其总结为%d个字的摘要。\
+        关键字和摘要应使用其原始语言。\
+            不要给出附加描述。\
+                只需返回格式为\
+                    [{\"keywords\":[xx，...],\"abstract\":\"...\"}]的json列表。\
+                        以下是文本：\r\n ["%(KEYWORD, ABSTRACT)
+
+def prompt(text, lang):
+    #input: prompt, lang
+    #output: prompt
+    preset = None
+
+    preset_ch = "请从以下文本中提取%d个关键词\
+    并将其总结为%d个字的摘要。\
+    不要给出任何附加描述。\
+    只需给我一个格式为\
+    [{\"keywords\":[xx，...],\"abstract\":\"...\"}]的json列表。\
+    以下是文本：\r\n ["%(KEYWORD, ABSTRACT)
+    
+    preset_en  = "Please extract %d keywords from the text\
+    Conclude the text to one sentence within %d words. \
+    Do not give addtional description. \
+    Only give me a json list in the format\
+    [{\"keywords\":[xx,...],\"abstract\":\"...\"}]. \
+    Here's the text: \r\n ["%(KEYWORD, ABSTRACT)
+    
+    if lang == "ch":
+        preset = preset_ch
+    elif lang == "en":
+        preset = preset_en
+    
+    
 
 #geenrate 
 def generate_prompt():
@@ -31,7 +56,7 @@ def generate_prompt():
     X = np.loadtxt(TRAIN_PATH, dtype=str, delimiter="\t")
     
     #copy the preset
-    preset = BATCH_PRESET
+    preset = PRESET
 
     for i in range(RANGE[0], RANGE[1]+1):
         if len(preset) + len(X[i]) > LIMIT:
@@ -46,33 +71,11 @@ def generate_prompt():
         raise ValueError("Prompt too long")
     return preset
 
-def batch_generate_prompt():
-
-    X = np.loadtxt(TRAIN_PATH, dtype=str, delimiter="\t")
-    
-    # load all the text to a list
-    preset_list = []
-
-    preset = PRESET
-
-    for i in range(0, len(X)):
-        
-        if len(preset) + len(X[i]) < LIMIT:
-            preset = preset +"{"+  X[i]+ "},"
-        else:
-            #remove the last comma
-            preset = preset[:-1]+"]"
-            #reach the limit, add to the list and reset the preset
-            preset_list.append(preset)
-            preset = PRESET
-
-    return preset_list
-
 #test example
 def main():
     print(generate_prompt())
     
-    print(len(batch_generate_prompt()))
+
     
 if __name__ == "__main__":
     main()
